@@ -4,12 +4,5 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
-
-You can find the source code for the Jekyll new theme at:
-{% include icon-github.html username="jekyll" %} /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at
-{% include icon-github.html username="jekyll" %} /
-[jekyll](https://github.com/jekyll/jekyll)
+Hello! I'm Dushyant Rao, and I'm a postdoctoral researcher at the Oxford Robotics Institute within the University of Oxford. My research is focused on developing machine learning algorithms that apply to robotics, computer vision, image processing, and other fields.
+For details on specific projects, check out my publications page.
