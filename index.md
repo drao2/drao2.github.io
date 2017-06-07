@@ -4,5 +4,3 @@
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 layout: home
 ---
-
-![image-title-here](/Dushyant.jpg){:class="img-responsive"}
