@@ -5,4 +5,4 @@
 layout: home
 ---
 
-![image-title-here]({{ site.url }}/_data/Dushyant.jpg){:class="img-responsive"}
+![image-title-here](/Dushyant.jpg){:class="img-responsive"}

@@ -1,7 +1,5 @@
 ---
 layout: page
 title: CV
-permalink: /cv/
+permalink: /cv.pdf
 ---
-
-{{ site.url }}/_data/cv.pdf
