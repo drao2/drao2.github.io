@@ -17,7 +17,7 @@ Journal of Robotics Research, 2017
 learning for path planning using deep inverse reinforcement learning,” Accepted for publication
 in The International Journal of Robotics Research, 2017
 
-  * C. Gur˘au, **D. Rao**, C. H. Tong, and I. Posner, “Learn from experience: Probabilistic prediction
+  * C. Gurau, **D. Rao**, C. H. Tong, and I. Posner, “Learn from experience: Probabilistic prediction
 of perception performance to avoid failure,” Accepted for publication in The International
 Journal of Robotics Research, 2017
 
