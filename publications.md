@@ -9,7 +9,7 @@ permalink: /publications/
 learning and inference from visual and remotely sensed data,” The International Journal of
 Robotics Research, vol. 36, pp. 24 – 43, 2016
 
-  * J. Dequaire, D. Rao, P. Ondruska, D. Wang, and I. Posner, “Deep tracking in the wild:
+  * J. Dequaire, P. Ondruska, D. Rao, D. Wang, and I. Posner, “Deep tracking in the wild:
 End-to-end tracking using recurrent neural networks,” Accepted for publication in The International
 Journal of Robotics Research, 2017
 
